@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi I'm Thomas 👋
 
-<!--
-**ThomasLaSalmonie/ThomasLaSalmonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer axed on back-end and devops.
 
-Here are some ideas to get you started:
+- 💬 Ask anything me about k8s, gcp, node.js, typescript or elasticsearch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Megaswords] (https://megaswords.com/) a rpg pixel mobile game.
+
+<img
+    id="playerAnimation"
+    src="https://github.com/ThomasLaSalmonie/ThomasLaSalmonie/blob/master/animation.gif"
+    loop="infinite"
+    alt="megaswords player move animation"
+    width="100px"
+    height="100px"
+  >
+  
+  - 📫  How to reach me: tlasalmonie@gmail.com or Twitter [@tlasalmonie](https://twitter.com/tlasalmonie)
